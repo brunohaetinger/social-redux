@@ -1,6 +1,6 @@
 # Redux tutorial
 
-Project where I followed completelly the Redux tutorial, using Redux Toolkit. https://redux.js.org/tutorials/essentials/part-1-overview-concepts
+Project to follow completelly the Redux tutorial, using Redux Toolkit. https://redux.js.org/tutorials/essentials/part-1-overview-concepts
 
 # Redux Essentials Tutorial Example
 
